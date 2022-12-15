@@ -64,15 +64,14 @@ This is a balanced dataset containing faces with and without masks with a mean h
 Set all downloaded files to their respective folders/path as given in Folder Structure Diagram.
 ![](https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection/blob/main/Folder%20Structure.png)
 >## Flow Diagram
-><img width="442" alt="image" src="https://user-images.githubusercontent.com/60310409/207964712-096ec1bd-ab39-4534-b591-183aecbc52c1.png">
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/60310409/207964712-096ec1bd-ab39-4534-b591-183aecbc52c1.png">
 
 
-> ## Outputs--<img width="532" alt="image" src="https://user-images.githubusercontent.com/60310409/207964206-9bb6473a-67bc-4c86-9c20-0ead8b38912d.png">
+> ## Outputs
+<img width="532" alt="image" src="https://user-images.githubusercontent.com/60310409/207964206-9bb6473a-67bc-4c86-9c20-0ead8b38912d.png">
 <img width="374" alt="image" src="https://user-images.githubusercontent.com/60310409/207964500-b8996ca7-46f9-4079-8c93-4ae5ec4b0243.png">
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/60310409/207964428-328518e8-3c8a-490d-842c-7cbb543453f2.png">
 
-> ## Contribute:
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>:fire: Contributions are always welcome!</b>
 # Drop a :star: if you like this Repository.. :smile: 
 	
  
