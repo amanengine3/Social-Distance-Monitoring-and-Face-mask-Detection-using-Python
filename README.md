@@ -74,7 +74,7 @@ Set all downloaded files to their respective folders/path as given in Folder Str
 
 
 >## Video URL
-[![enjoy][enjoy-image]]https://drive.google.com/drive/u/1/folders/14Ior7FjTIEDhwR0jIrx0cYNpsUoVkKsF
+https://drive.google.com/drive/u/1/folders/14Ior7FjTIEDhwR0jIrx0cYNpsUoVkKsF
 
 # Drop a :star: if you like this Repository.. :smile: 
  
