@@ -20,7 +20,7 @@ staying at home*
 means half of the interactions violate the safe 6 feet distance criteria.*
 4. ***Face Mask Prediction:*** *Detects the face mask with 98% accuracy. Green rectangle
 means the person is wearing the mask and red rectangle means not wearing the mask.*
-> ## System Requirement -- :desktop_computer:
+> ## System Requirement  :desktop_computer:
 
  -  **SOFTWARE--**
 	 &nbsp; &nbsp; &nbsp;   
@@ -35,25 +35,6 @@ means the person is wearing the mask and red rectangle means not wearing the mas
 	*	Camera: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCTV/ Webcam/ Mobile Camera (Sharing Camera) 
 	*	Storage Disk (Optional): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SSD – Min 400MB/s Read Speed	
 
-
- 
-> ## Installation Process--
- * Download Anaconda Software -- 
-
-||Operating System | Download Link  |
-|--|--|--|
-|:point_right:|Windows | [click here](https://docs.anaconda.com/anaconda/install/windows/)  |
-|:point_right:|Mac|[click here](https://docs.anaconda.com/anaconda/install/mac-os/) |
-|:point_right:|Linux | [click here](https://docs.anaconda.com/anaconda/install/linux/) |
-
-
-:loudspeaker: During Installation be sure to check to set *Environmental variable path* 
-
-* Create new Environment for the installation of libraries:
-	* Open Command Prompt / Anaconda Prompt and type `conda create --name tf_python`  
-	you can set any name in place of tf_python to create a new envionment. and after type `y` and enter.
-	* Install all required Libraries given in <font color="red">requirement.txt</font> by using command `pip install -r requirement.txt`
-	 
 > #### Required Libraries--
 * ![](https://img.shields.io/badge/TensorFlow-v2.4.0-blue)   &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;  [TensorFlow](https://pypi.org/project/tensorflow/)
 * ![](https://img.shields.io/badge/TensorFlow--GPU-v2.4.0-blue) &nbsp;   &nbsp;[TensorFlow-GPU](https://pypi.org/project/tensorflow-gpu/)
@@ -77,19 +58,19 @@ This is a balanced dataset containing faces with and without masks with a mean h
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Download the Weight File :point_right: <a href="https://drive.google.com/file/d/1MILq56BADd3Tj173HekMm6aycLx9gruk/view?usp=sharing">*Click here* </a> :point_left: 
 
 
-> ## Trained Result of Face Mask Model--
+> ## Trained Result of Face Mask Model
 ![](https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection/blob/main/plot.png)
 > ## File Structure 
 Set all downloaded files to their respective folders/path as given in Folder Structure Diagram.
 ![](https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection/blob/main/Folder%20Structure.png)
-> ## RUN the Main Module--
-*	Using Command Prompt or Anaconda Prompt:
-	*  To activate environment:--&nbsp; &nbsp; &nbsp; `conda activate tf_python`
-	* Run main module:-- `python main.py`
-	
+>## Flow Diagram
+><img width="442" alt="image" src="https://user-images.githubusercontent.com/60310409/207964712-096ec1bd-ab39-4534-b591-183aecbc52c1.png">
 
-> ## Outputs--
-![](https://github.com/Shantanugupta1118/Social-Distancing-and-Face-Mask-Detection/blob/main/Output%20Data/output_2.jpg)
+
+> ## Outputs--<img width="532" alt="image" src="https://user-images.githubusercontent.com/60310409/207964206-9bb6473a-67bc-4c86-9c20-0ead8b38912d.png">
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/60310409/207964500-b8996ca7-46f9-4079-8c93-4ae5ec4b0243.png">
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/60310409/207964428-328518e8-3c8a-490d-842c-7cbb543453f2.png">
+
 > ## Contribute:
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>:fire: Contributions are always welcome!</b>
 # Drop a :star: if you like this Repository.. :smile: 
