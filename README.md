@@ -10,22 +10,22 @@ In this project, We have used python in conjunction with deep learning and compu
 > ## About
 Based on the bird's eye view and 6 feet distance points marked by the user, the
 algorithm calculates and reports the following parameters.
-1. 6ft violation: Number of times the pedestrians violated the 6 feet safe distance
-threshold
-2. Stay-at-home Index: Quantifies how many people are staying at home as
+1. ***6ft violation:*** *Number of times the pedestrians violated the 6 feet safe distance
+threshold*
+2. ***Stay-at-home Index:*** *Quantifies how many people are staying at home as
 compared to the normal routine pedestrian traffic. 0% means that there is no change in
 the pedestrian traffic compared to normal days, 50% means half of the people are
-staying at home
-3. Social-distancing Index: Quantifies the social distancing being maintained. 50%
-means half of the interactions violate the safe 6 feet distance criteria.
-4. Face Mask Prediction: Detects the face mask with 98% accuracy. Green rectangle
-means the person is wearing the mask and red rectangle means not wearing the mask.
+staying at home*
+3. ***Social-distancing Index:*** *Quantifies the social distancing being maintained. 50%
+means half of the interactions violate the safe 6 feet distance criteria.*
+4. ***Face Mask Prediction:*** *Detects the face mask with 98% accuracy. Green rectangle
+means the person is wearing the mask and red rectangle means not wearing the mask.*
 > ## System Requirement -- :desktop_computer:
 
  -  **SOFTWARE--**
 	 &nbsp; &nbsp; &nbsp;   
-	 * Software: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anaconda + Python 3.x (3.8 or earlier) 
-	 * Editor: &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VS Code/ PyCharm/ Sublime/ Spyder </br>
+	 * Software: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python 3.x (3.8 or earlier) 
+	 * Editor: &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupyter Notebook/ PyCharm/ VS Code </br>
 	 * Environment: &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; TensorFlow 
 	 * GPU Drivers:&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Nvidia® CUDA® 11.0 requires 450.x or above 
 		</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CUDA® Toolkit (TensorFlow >= 2.4.0) 
