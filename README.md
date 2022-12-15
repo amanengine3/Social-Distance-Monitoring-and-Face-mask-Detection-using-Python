@@ -7,10 +7,10 @@ In this project, We have used python in conjunction with deep learning and compu
 ![63552](https://user-images.githubusercontent.com/60310409/207961393-356f565a-cc83-4ef5-b328-9b285270d2f6.jpg)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
  
-> ## About-- 
+> ## About
 Based on the bird's eye view and 6 feet distance points marked by the user, the
 algorithm calculates and reports the following parameters.
-1. # 6ft violation: Number of times the pedestrians violated the 6 feet safe distance
+1. 6ft violation: Number of times the pedestrians violated the 6 feet safe distance
 threshold
 2. Stay-at-home Index: Quantifies how many people are staying at home as
 compared to the normal routine pedestrian traffic. 0% means that there is no change in
