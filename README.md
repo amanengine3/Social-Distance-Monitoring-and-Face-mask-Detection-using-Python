@@ -1,21 +1,25 @@
-# Social Distance Monitoring and Face mask Detection using Python :mask:
-In this we have Python to Monitor Social Distancing in a Public Area, we have utilised python in conjunction with deep learning and computer vision to track social distancing and detecting mask in a public area.
+## Social Distance Monitoring and Face mask Detection using Python :mask:
+In this project, We have used python in conjunction with deep learning and computer vision to track social distancing and detect masks in a public area.
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/yolo%20-v3-yellowgreen?style=for-the-badge&logo=Yolo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ![63552](https://user-images.githubusercontent.com/60310409/207961393-356f565a-cc83-4ef5-b328-9b285270d2f6.jpg)
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; :mask:C O V I D - 1 9   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   A L E R T!:pray:
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
  
-## Developed By: </br>
-👉 &nbsp;[Shantanu Gupta]&nbsp;&nbsp;&nbsp; <a href="http://helloshantanu.ml">Portfolio</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/shantanugupta1118">GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shang1118/">LinkedIN</a>
-</br>
-</br>
-
 > ## About-- 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ***Social Distancing and Face Mask Detection*** Platform utilizes Artificial Network to perceive if a person walk with maintain social distance and does/doesn’t wear a mask as well. The application can be associated with any current or new IP cameras to identify individuals maintaining social distance with/without a mask. :mask: 
-</br>
-</br>
+Based on the bird's eye view and 6 feet distance points marked by the user, the
+algorithm calculates and reports the following parameters.
+1. # 6ft violation: Number of times the pedestrians violated the 6 feet safe distance
+threshold
+2. Stay-at-home Index: Quantifies how many people are staying at home as
+compared to the normal routine pedestrian traffic. 0% means that there is no change in
+the pedestrian traffic compared to normal days, 50% means half of the people are
+staying at home
+3. Social-distancing Index: Quantifies the social distancing being maintained. 50%
+means half of the interactions violate the safe 6 feet distance criteria.
+4. Face Mask Prediction: Detects the face mask with 98% accuracy. Green rectangle
+means the person is wearing the mask and red rectangle means not wearing the mask.
 > ## System Requirement -- :desktop_computer:
 
  -  **SOFTWARE--**
